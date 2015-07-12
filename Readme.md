@@ -15,7 +15,7 @@ For example CRABATOR.HEX (the game binaries) and CRABATOR.INF (the description f
 By putting this information in the INF you can read it before loading the game,
 everything that's in the .INF don't need to be in the .HEX so it frees some space for your code.
 
-#How to run this
+#How to run it
 InfEncoder is made using java, so you need to have the [Java JRE](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed on your computer.
 Then, simply launch InfEncoder/dist/InfEncoder.jar by double clicking it.
 
