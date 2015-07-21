@@ -1,7 +1,7 @@
 #What is InfEncoder
 InfEncoder is part of the Gamebuino project, see [the website](http://gamebuino.com) for more information.
 
-[See a video](https://www.youtube.com/watch?v=DCkUAPv2Cos) showing how the generated INF files show on the Gamebuino.
+[See a video](https://www.youtube.com/watch?v=DCkUAPv2Cos) to see how the generated INF files look like on the Gamebuino loader.
 
 ![](https://raw.githubusercontent.com/Rodot/InfEncoder/master/InfEncoderScreenshot.png)
 
