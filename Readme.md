@@ -1,6 +1,10 @@
 #What is InfEncoder
 InfEncoder is part of the Gamebuino project, see [the website](http://gamebuino.com) for more information.
 
+[See a video](https://www.youtube.com/watch?v=DCkUAPv2Cos) showing how the generated INF files show on the Gamebuino.
+
+![](https://raw.githubusercontent.com/Rodot/InfEncoder/master/InfEncoderScreenshot.png)
+
 InfEncoder is an utility which allows you to create .INF files, which are used to embed logo, images
 and description of your Gamebuino games for them to be shown when you select a game on your Gamebuino.
 
